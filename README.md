@@ -1,1 +1,1 @@
-# algoUni2stLectureTask
+# algoUni2ndLectureTask
