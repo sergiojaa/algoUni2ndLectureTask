@@ -108,6 +108,12 @@ switch(task10){
     case 'C':
         console.log('ნორმალური')
         break;
+    case 'D':
+        console.log('ცუდი')
+        break;
+    case 'D':
+        console.log('ძალიან ცუდი')
+        break;
         default:
         console.log('კიდევ სცადე უკეთესი შედეგისთვის')
 }
