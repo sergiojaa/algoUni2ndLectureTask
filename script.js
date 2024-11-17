@@ -4,7 +4,7 @@
         console.log('რიცხვი ლუწია')
     }else{
         console.log('რიცხვი კენტია')
-    }iijjhhhhyyyhhhhh
+    }
 //2. დაწერეთ პროგრამა,რათა შეამოწმოთ რიცხვი დადებითია  თუ უარყოფითი თუ ნული
 let num2 = Number(prompt('Enter the number'))
 if(num2 > 0){
